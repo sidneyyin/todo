@@ -11,7 +11,7 @@
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.15",
     "mongodb": "^3.2.7",
-    "mongoose": "^5.6.6",
+    "mongoose": "^5.7.5",
     "passport-google-oauth20": "^2.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
